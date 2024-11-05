@@ -1,0 +1,13 @@
+__pycache__/
+.vscode/
+checkpoints/
+data/
+image/
+image1/
+lightning_logs/
+logs/
+tb_logs/
+comic*
+*.png
+*.gif
+
